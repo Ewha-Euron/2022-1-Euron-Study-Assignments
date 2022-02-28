@@ -75,9 +75,44 @@
 
 <details>
 <summary>NLP</summary>
-<div markdown="1">       
+<div markdown="1">
+  
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 1    | cs224n 1주차 | 이승연, 이다현, 장예서 | [📚]()    |
 
 
+
+## Assignment
+
+> 매주 예습 과제와 복습 과제가 주어집니다.
+  
+* Preview
+  - cs224n 1주차 강의를 듣고 강의 내용을 `ipynb` 혹은 `pdf` 형식으로 정리합니다. 
+  
+* Review
+  1. [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+  2. [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
+  3. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  
+  </br>  
+  
+  - 제시된 3개의 **Suggested Readings**를 읽고 후기(내용 요약, 실습 내용 등)를 `pdf` 형식으로 정리합니다.
+  
+  
+
+## Submission
+  
+> 모든 파일을 업로드하신 후 해당 `Week_1`  branch에서  `pull request` 를 진행해주세요.
+
+* Preview
+  - **3월 7일**까지 제출합니다.
+  
+* Review
+  - **3월 14일**까지 제출합니다.
+  
 
 </div>
 </details>
