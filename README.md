@@ -167,3 +167,27 @@
 </div>
 </details>
 
+
+
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 1    | [Ego-Vision 손동작 인식 AI 경진대회](https://dacon.io/competitions/official/235805/overview/description) | 최하경, 이다현, 장예서 | [📚]()    |
+
+  
+## Assignment
+### 📍 예습과제 (~3/10)
+
+- 3월 10일 목요일 23:59 분까지
+- 아래의 노트를 필사해 오시면 됩니다. 코드 분석 + 활용 모델 관련 개념 정리 등 자유롭게 필사하시어 pdf / ipynb 형태로 깃허브에 업로드해 주세요~!
+- [https://dacon.io/competitions/official/235805/codeshare/3620?page=1&dtype=recent](https://dacon.io/competitions/official/235805/codeshare/3620?page=1&dtype=recent)
+
+  
+</div>
+</details>
