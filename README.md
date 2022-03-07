@@ -1,4 +1,4 @@
-## EURON 2기 - 스터디팀 1주차
+## EURON 2기 - 1주차
 <details>
 <summary>CV</summary>
 <div markdown="1">       
