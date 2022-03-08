@@ -183,15 +183,7 @@
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
   
 ## Review
-  - 세션 후 복습과제가 깃허브에 업로드됩니다. 해당 ipynb 파일을 다운받아 해결해주세요.
-  
- 
-> 해당 파일을 `Week_2` branch에 업로드하신 후 해당 `Week_2`  branch에서  `pull request` 를 진행해주세요.
-  
-- 과제 제출 방법
-    - 레포: (origin) username/2022-1-Euron-Study-Assignments
-    - 브랜치: `Week_2`
-    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
+  - 2주차 복습과제는 없습니다.
 
   
 ### Due 
