@@ -23,9 +23,9 @@
             - 강의에는 없지만 추가로 궁금한 사항 `question`
             - 강의에는 없지만 추가로 공유하고 싶은 내용 `share`
   
-### Submission
+### 예습과제 제출 방법
   
-> 해당 파일을 'master' branch에 업로드하신 후 해당 `master`  branch에서  `pull request` 를 진행해주세요.
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master`  branch에서  `pull request` 를 진행해주세요.
   
 - 과제 제출 방법
     - 레포: (origin) username/2022-1-Euron-Study-Assignments
@@ -62,16 +62,16 @@
     
     ✅ `colab-tutorial.ipynb` 의 모든 cell이 실행된 파일을 제출해주세요.
   
-### Submission
+### 복습과제 제출 방법
   
-> 해당 파일을 'master' branch에 업로드하신 후 해당 `week_2`  branch에서  `pull request` 를 진행해주세요.
+> 해당 파일을 `Week_2` branch에 업로드하신 후 해당 `Week_2`  branch에서  `pull request` 를 진행해주세요.
   
 - 과제 제출 방법
     - 레포: (origin) username/2022-1-Euron-Study-Assignments
-    - 브랜치: `week_2`
+    - 브랜치: `Week_2`
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `CV` , `복습과제`
   
-### Due
+### 제출 기한
   
 * Preview
   - **3월 14일**까지 제출합니다.
@@ -79,7 +79,7 @@
 * Review
   - **3월 14일**까지 제출합니다.
 
-## Extra-Credit
+## 추가 과제 (선택)
 
 * https://github.com/deeplearningzerotoall
 
@@ -112,14 +112,14 @@
             - 강의에는 없지만 추가로 궁금한 사항 `question`
             - 강의에는 없지만 추가로 공유하고 싶은 내용 `share`
 
-### Submission
+### 예습과제 제출 방법
   
-> 해당 파일을 'master' branch에 업로드하신 후 해당 `master`  branch에서  `pull request` 를 진행해주세요.
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master`  branch에서  `pull request` 를 진행해주세요.
   
 - 과제 제출 방법
     - 레포: (origin) username/2022-1-Euron-Study-Assignments
     - 브랜치: `master`
-    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP` , `예습과제`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `` , `예습과제`
   
 ### 📍 복습과제
 
@@ -131,17 +131,17 @@
     
     * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
-### Submission
+### 복습과제 제출 방법
   
-> 해당 파일을 'master' branch에 업로드하신 후 해당 `week_2`  branch에서  `pull request` 를 진행해주세요.
+> 해당 파일을 `Week_2` branch에 업로드하신 후 해당 `Week_2`  branch에서  `pull request` 를 진행해주세요.
   
 - 과제 제출 방법
     - 레포: (origin) username/2022-1-Euron-Study-Assignments
-    - 브랜치: `week_2`
+    - 브랜치: `Week_2`
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP` , `복습과제`
   
 
-## Due
+### 제출 기한
   
 📍 예습과제
   - **3월 14일**까지 제출합니다.
@@ -175,14 +175,14 @@
 ## Preview
   - 파이썬 머신러닝 완벽가이드 4장-04까지를 pdf 형식으로 정리합니다. 또한 주피터나 구글 코랩으로 실행한 실습 코드들을 ipynb 형식으로 정리합니다.
   
-### Submission
+### Preview Submission
   
-> 해당 파일을 'master' branch에 업로드하신 후 해당 `week_2`  branch에서  `pull request` 를 진행해주세요.
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master`  branch에서  `pull request` 를 진행해주세요.
   
 - 과제 제출 방법
     - 레포: (origin) username/2022-1-Euron-Study-Assignments
-    - 브랜치: `week_2`
-    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `복습과제`
+    - 브랜치: `master`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
   
 ## Review
   - 1주차 복습과제는 없습니다.
