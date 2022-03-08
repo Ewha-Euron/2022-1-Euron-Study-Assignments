@@ -32,7 +32,7 @@
     - 브랜치: `master`
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `CV` , `예습과제`
   
-### 📍 복습과제 (~3/14)
+### 📍 복습과제 (~3/21)
 
 ### 1️⃣ Software Setup
 
@@ -77,7 +77,7 @@
   - **3월 14일**까지 제출합니다.
   
 * Review
-  - **3월 14일**까지 제출합니다.
+  - **3월 21일**까지 제출합니다.
 
 ## Extra Credit
 
@@ -98,7 +98,7 @@
 
 ## Assignment
   
-### 📍 예습과제
+### 📍 예습과제(~3/14)
   
 1️⃣ CS224N 2강을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
 
@@ -121,16 +121,14 @@
     - 브랜치: `master`
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `` , `예습과제`
   
-### 📍 복습과제
+### 📍 복습과제(~3/21)
 
-   1️⃣ (필수) CS224N Assignment 1 문제 Q1.1 ~ Q1.5 풀어서 제출 
-  
-    * [CS224N 2019 Assignment 1](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1.zip)
+   1️⃣ (필수) CS224N Assignment 1 문제 Q1.1 ~ Q1.5 풀어서 제출 [CS224N 2019 Assignment 1](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1.zip)
  
-   2️⃣ (선택) 리딩자료를 읽고, 후기(내용 요약, 실습 내용 등) 를 정리합니다. (내용은 1번 노트북에 마크다운으로 함께 정리) 
-    
-    * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+  
+   2️⃣ (선택) 리딩자료를 읽고, 후기(내용 요약, 실습 내용 등) 를 정리합니다. (내용은 1번 노트북에 마크다운으로 함께 정리) [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
+  
 ### 복습과제 제출 방법
   
 > 해당 파일을 `Week_2` branch에 업로드하신 후 해당 `Week_2`  branch에서  `pull request` 를 진행해주세요.
@@ -147,7 +145,7 @@
   - **3월 14일**까지 제출합니다.
   
 📍 복습과제
-  - **3월 14일**까지 제출합니다.
+  - **3월 21일**까지 제출합니다.
 
 
 
@@ -185,7 +183,7 @@
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
   
 ## Review
-  - 1주차 복습과제는 없습니다.
+  - 
 
   
 ### Due 
@@ -194,7 +192,7 @@
   - **3월 14일**까지 제출합니다.
   
 * Review
-  - 1주차 복습과제는 없습니다.
+  - 
   
 
 </div>
