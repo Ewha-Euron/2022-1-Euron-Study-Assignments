@@ -106,12 +106,15 @@
   - cs224n 1주차 강의를 듣고 강의 내용을 `ipynb` 혹은 `pdf` 형식으로 정리합니다. 
   
 * Review ♾
+   
+   1️⃣ (필수) CS2241N Assignment1 preview 문제 Q1.1 ~ Q1.5 풀어서 제출 
  
-  1️⃣ (선택) 리딩자료를 읽고, 후기(내용 요약, 실습 내용 등)를 `pdf` 형식으로 정리합니다.
+   2️⃣ (선택) 리딩자료를 읽고, 후기(내용 요약, 실습 내용 등) 를 정리합니다. (내용은 1번 노트북에 마크다운으로 함께 정리) 
     
     * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
-  2️⃣ Assignment1 의 preview 에 해당하는 문제 Q1.1 ~ Q1.5 풀어 제출 
+
+
   
   </br>  
   
