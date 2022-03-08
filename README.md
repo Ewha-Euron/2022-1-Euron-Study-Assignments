@@ -107,7 +107,9 @@
   
 * Review ♾
    
-   1️⃣ (필수) CS2241N Assignment1 preview 문제 Q1.1 ~ Q1.5 풀어서 제출 
+   1️⃣ (필수) CS224N Assignment 1 문제 Q1.1 ~ Q1.5 풀어서 제출 
+  
+    * [CS224N 2019 Assignment 1](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a1.zip)
  
    2️⃣ (선택) 리딩자료를 읽고, 후기(내용 요약, 실습 내용 등) 를 정리합니다. (내용은 1번 노트북에 마크다운으로 함께 정리) 
     
