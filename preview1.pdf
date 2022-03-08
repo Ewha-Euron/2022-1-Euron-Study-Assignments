@@ -1,0 +1,23 @@
+preview1
+
+넘파이
+행렬, 인덱싱과 슬라이싱, 정렬
+
+판다스
+seriese-열, dataframe-행렬, 삭제시 drop, 
+index 객체, 셀력션-칼럼지정연산자[], aggregation-groupby,
+결손데이터 isna, fillna, 데이터가공 lambda, apply
+
+머신러닝
+데이터 세트 분리 -> 모델 학습 -> 예측 수행 -> 평가
+
+사이킷런
+지도-fit predict, 비지도-fit transform
+평가 metrics
+
+데이터세트 분리-train_test_split
+교차검증
+결손값처리-평균값, drop 등,
+데이터 인코딩 labelncoder
+
+
