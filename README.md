@@ -123,7 +123,7 @@
 - 과제 제출 방법
     - 레포: (origin) username/2022-1-Euron-Study-Assignments
     - 브랜치: Week_1
-    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `CV`, `예습과제` 또는 `복습과제`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP`, `예습과제` 또는 `복습과제`
 
 * Preview
   - **3월 7일**까지 제출합니다.
