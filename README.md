@@ -1,4 +1,4 @@
-## EURON 2기 - 스터디팀 1주차
+## EURON 2기 - 1주차
 <details>
 <summary>CV</summary>
 <div markdown="1">       
@@ -25,32 +25,38 @@
             - 강의에는 없지만 추가로 공유하고 싶은 내용 `share`
   
 ### 📍 복습과제 (~3/14)
+
+### 1️⃣ Software Setup
+
+- Local Environment (Jupyter Notebook) 가 아닌 `Google Colab` 을 이용해주세요. ( 미리 설치하실 것은 따로 없으며, Assignment 절차를 따라주시면 됩니다. )
+- [https://cs231n.github.io/setup-instructions/](https://cs231n.github.io/setup-instructions/) 을 따라 'Working remotely on Google Colaboratory' 까지 해주시면 됩니다.
+
+![https://user-images.githubusercontent.com/49134038/111903240-92508a00-8a84-11eb-922c-eca1b010672d.png](https://user-images.githubusercontent.com/79077316/156975127-4b394718-0e70-45d0-bae1-a4c7d46e9b90.png)
+
+![https://user-images.githubusercontent.com/49134038/111903237-9086c680-8a84-11eb-8652-19a7668d106a.png](https://user-images.githubusercontent.com/79077316/156975150-2f6ca017-c87f-4880-bffc-d2d859d2c625.png)
+
+2️⃣ [https://cs231n.github.io/assignments2021/assignment1/](https://cs231n.github.io/assignments2021/assignment1/) 을 따라 진행해주세요.
+
+- 과제 파일을 다운로드 받아주세요.
+- 이후 아래의 과정에서 2번까지 진행해주세요. (colab에 구글 드라이브의 assignment1 폴더 마운팅)
+
+![Untitled](https://user-images.githubusercontent.com/79077316/156975158-a4469d82-8e64-46d4-91ea-9bf7564a4c65.png)
+
+1. 다음주 과제로 사용할 dataset을 미리 다운받기 위해, /assignment1/knn.ipynb의 첫 번째 cell을 실행해주세요.
+    
+    ![Untitled](https://user-images.githubusercontent.com/79077316/156975189-6dc60a1a-f642-4116-afc1-2f284d33a2a5.png)
+    
+    ✅ assignment1의 dataset을 다운받은 화면을 캡쳐해서 제출해주세요. 아래의 결과가 포함되면 됩니다.
+    
+    ![Untitled](https://user-images.githubusercontent.com/79077316/156975202-a4fce426-a987-45d6-9c19-5783a49e4449.png)
+    
+2. [https://cs231n.github.io/python-numpy-tutorial/](https://cs231n.github.io/python-numpy-tutorial/) 을 완료해주세요.
+    
+    ✅ `colab-tutorial.ipynb` 의 모든 cell이 실행된 파일을 제출해주세요.
+
   
-❗️Local Environment (Jupyter Notebook) 가 아닌  `Google Colab` 을 이용해주세요. ( 미리 설치하실 것은 따로 없으며, Assignment 절차를 따라주시면 됩니다. )
-
-<img width="843" alt="Screenshot 2021-03-21 at 19 58 38" src="https://user-images.githubusercontent.com/49134038/111903240-92508a00-8a84-11eb-922c-eca1b010672d.png">
-
-<img width="848" alt="Screenshot 2021-03-21 at 19 53 57" src="https://user-images.githubusercontent.com/49134038/111903237-9086c680-8a84-11eb-8652-19a7668d106a.png">
-
-1️⃣ 다음주차부터 시작할 과제를 위해, https://cs231n.github.io/setup-instructions/ 을 따라 진행해주세요.
-  * 'Working remotely on Google Colaboratory' 까지 해주시면 됩니다.
-
-* 2주차 과제를 미리 다운받고, setup을 해보겠습니다.
   
-  1. https://cs231n.github.io/assignments2020/assignment1/ 에서 과제 파일을 다운로드 받아주세요. 
   
-  2. 이후 아래의 과정에서 2번까지 진행해주세요. (colab에 구글 드라이브의 assignment1 폴더 마운팅)
-  <img width="573" alt="Screenshot 2021-03-21 at 20 05 12" src="https://user-images.githubusercontent.com/49134038/111903241-9381b700-8a84-11eb-9b8a-f0f3008ebd58.png">
-
-  3. 마지막으로 dataset을 미리 다운로드 받기 위해, /assignment1/knn.ipynb의 첫번째 cell을 실행해 주세요.
-     <img width="604" alt="Screenshot 2021-03-21 at 20 12 57" src="https://user-images.githubusercontent.com/49134038/111903243-94b2e400-8a84-11eb-84f2-27799cc95704.png">
-  
-  * assignment1의 dataset을 다운받은 화면을 캡쳐해서 제출해주세요. 아래의 결과가 포함되면 됩니다.
-
-   <img width="745" alt="Screenshot 2021-03-21 at 20 17 11" src="https://user-images.githubusercontent.com/49134038/111903244-954b7a80-8a84-11eb-9854-a34d1b7291d3.png">
-  
-2️⃣ https://cs231n.github.io/python-numpy-tutorial/ 을 완료해주세요.
-  * `python-numpy-tutorial.ipynb` 의 모든 cell이 실행된 파일을 제출해주세요.
   
 ## Submission
   
@@ -167,3 +173,27 @@
 </div>
 </details>
 
+
+
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 1    | [Ego-Vision 손동작 인식 AI 경진대회](https://dacon.io/competitions/official/235805/overview/description) | 최하경, 이다현, 장예서 | [📚]()    |
+
+  
+## Assignment
+### 📍 예습과제 (~3/10)
+
+- 3월 10일 목요일 23:59 분까지
+- 아래의 노트를 필사해 오시면 됩니다. 코드 분석 + 활용 모델 관련 개념 정리 등 자유롭게 필사하시어 pdf / ipynb 형태로 깃허브에 업로드해 주세요~!
+- [https://dacon.io/competitions/official/235805/codeshare/3620?page=1&dtype=recent](https://dacon.io/competitions/official/235805/codeshare/3620?page=1&dtype=recent)
+
+  
+</div>
+</details>
