@@ -102,17 +102,20 @@
 
 > 매주 예습 과제와 복습 과제가 주어집니다.
   
-* Preview
+* Preview ✔
   - cs224n 1주차 강의를 듣고 강의 내용을 `ipynb` 혹은 `pdf` 형식으로 정리합니다. 
   
-* Review
-  1. [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-  2. [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf)
-  3. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* Review ♾
+ 
+  1️⃣ (선택) 리딩자료를 읽고, 후기(내용 요약, 실습 내용 등)를 `pdf` 형식으로 정리합니다.
+    
+    * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+
+  2️⃣ Assignment1 의 preview 에 해당하는 문제 Q1.1 ~ Q1.5 풀어 제출 
   
   </br>  
   
-  - 제시된 3개의 **Suggested Readings**를 읽고 후기(내용 요약, 실습 내용 등)를 `pdf` 형식으로 정리합니다.
+
   
   
 
@@ -125,10 +128,10 @@
     - 브랜치: Week_1
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP`, `예습과제` 또는 `복습과제`
 
-* Preview
+* Preview ✔
   - **3월 7일**까지 제출합니다.
   
-* Review
+* Review ♾
   - **3월 14일**까지 제출합니다.
   
 
