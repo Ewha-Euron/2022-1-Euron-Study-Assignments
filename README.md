@@ -217,8 +217,8 @@
 
 - 3월 17일 목요일 23:59 분까지
 - 아래의 노트를 필사해 오시면 됩니다. 코드 분석 + 활용 모델 관련 개념 정리 등 자유롭게 필사하시어 pdf / ipynb 형태로 깃허브에 업로드해 주세요~!
-- [https://www.kaggle.com/hernan4444/anime-recommendation-database-2020/code?datasetId=1225408&sortBy=voteCount](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020/code?datasetId=1225408&sortBy=voteCount)
-- [https://www.kaggle.com/chocozzz/t-academy-recommendation/code](https://www.kaggle.com/chocozzz/t-academy-recommendation/code)
+-
+- 
 
   
 </div>
