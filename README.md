@@ -71,7 +71,7 @@
     - 브랜치: `Week_2`
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `CV` , `복습과제`
   
-### 제출 기한
+## Due
   
 * Preview
   - **3월 14일**까지 제출합니다.
@@ -79,7 +79,7 @@
 * Review
   - **3월 14일**까지 제출합니다.
 
-## 추가 과제 (선택)
+## Extra Credit
 
 * https://github.com/deeplearningzerotoall
 
@@ -141,7 +141,7 @@
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP` , `복습과제`
   
 
-### 제출 기한
+## Due
   
 📍 예습과제
   - **3월 14일**까지 제출합니다.
