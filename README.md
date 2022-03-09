@@ -229,7 +229,9 @@
 * 노트북 선택시 참고 부탁드립니다 👉 1번과 2번 노트북은 week2 세션에서 필수적으로 발표가 이루어질 내용, 3~5번은 발표자 선택에 따라 노트북 포함 여부가 결정될 예정 
   
 ➕ CF, CB 공부에 참고할 T-academy 세미나 자료 링크 
+  
   (1) [baseline code](https://www.kaggle.com/chocozzz/t-academy-recommendation/code) 
+  
   (2) [goodbook example](https://www.kaggle.com/chocozzz/t-academy-recommendation2/code) 
   
 </div>
