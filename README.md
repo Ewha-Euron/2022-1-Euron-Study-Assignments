@@ -217,7 +217,8 @@
 ### 📍 예습과제 (~3/17)
 
 - 3월 17일 목요일 23:59 분까지
-- 아래의 노트 중 하나를 선택해 필사해 오시면 됩니다. 코드 분석 + 활용 모델 관련 개념 정리 등 자유롭게 필사하시어 pdf / ipynb 형태로 깃허브에 업로드해 주세요~!
+  
+⭐ 아래의 노트 중 하나를 선택해 필사해 오시면 됩니다. 코드 분석 + 활용 모델 관련 개념 정리 등 자유롭게 필사하시어 pdf / ipynb 형태로 깃허브에 업로드해 주세요~!
 
 1. [Anime CF](https://www.kaggle.com/chaitanya99/recommendation-system-cf-anime)
 2. [Anime CF, CB, hybrid](https://www.kaggle.com/gnitch/anime-recommender)
@@ -226,6 +227,10 @@
 5. [TMDB Movie CB,CF](https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system) 
 
 * 노트북 선택시 참고 부탁드립니다 👉 1번과 2번 노트북은 week2 세션에서 필수적으로 발표가 이루어질 내용, 3~5번은 발표자 선택에 따라 노트북 포함 여부가 결정될 예정 
+  
+➕ CF, CB 공부에 참고할 T-academy 세미나 자료 링크 
+  (1) [baseline code](https://www.kaggle.com/chocozzz/t-academy-recommendation/code) 
+  (2) [goodbook example](https://www.kaggle.com/chocozzz/t-academy-recommendation2/code) 
   
 </div>
 </details>
