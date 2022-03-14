@@ -62,3 +62,58 @@
 
 </div>
 </details>
+
+
+<details>
+<summary>DA</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 3    | 완벽가이드 4장(2) | 오수진, 이서영, 오연재 | [📚](https://github.com/Ewha-Euron/2022-1-Euron-DA/blob/master/DA_week2.pdf)    |
+
+
+## **Assignment**
+
+### **📍 예습과제 (~3/21)**
+
+1️⃣ 파이썬 머신러닝 완벽가이드 4장-05,06,07,10을 pdf 형식으로 정리
+2️⃣ 주피터나 구글 코랩으로 실행한 실습 코드들을 ipynb 형식으로 정리
+  
+  
+**예습과제 제출 방법**
+
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master` branch에서 pull request 를 진행해주세요.
+>
+  
+- 과제 제출 방법
+    - 레포: (origin) username/2022-1-Euron-Study-Assignments
+    - 브랜치: `master`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
+  
+  
+### **📍 복습과제 (~3/21)**
+
+- DA 레포지토리 Week3 브랜치에 올라온 복습과제 ipynb 파일을 완료하신 후 깃허브에 올려주세요.
+- 복습과제 주소 ()
+
+**복습과제 제출 방법**
+
+> 해당 파일을 `Week_3` branch에 업로드하신 후 해당 `Week_3` branch에서 pull request 를 진행해주세요.
+> 
+
+
+  
+### Due 
+  
+* Preview
+  - **3월 21일**까지 제출합니다.
+  
+* Review
+  - **3월 21일**까지 제출합니다.
+  
+
+</div>
+</details>
