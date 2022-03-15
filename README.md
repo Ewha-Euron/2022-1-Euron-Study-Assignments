@@ -27,7 +27,7 @@
 
 - 1주차 복습과제로 다운 받았던 구글 드라이브의 assignment1을 이용합니다.  
 - [https://cs231n.github.io/assignments2021/assignment1/](https://cs231n.github.io/assignments2021/assignment1/)의 `Q1: k-Nearest Neighbor classifier`  을 완료해주세요.  
-    1️⃣ `knn.ipynb` 을 완료하신 후 제출해주세요.  
+    1️⃣ `knn.ipynb` 을 완료하신 후 `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)   
     2️⃣ `k_nearest_neighbor.py` 을 완료하신 후 제출해주세요.  
 
 **복습과제 제출 방법**
