@@ -172,3 +172,30 @@
 
 </div>
 </details>
+
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 3    | CV : [작물 병해진단 AI 경진대회](https://dacon.io/competitions/official/235870/codeshare/4425?page=1&dtype=recent) |한예송, 홍재령, 이지혜 | [📚]()    |
+
+💥 week3 에서는 Computer Vision Task에 대해서 다룹니다.
+  
+## Assignment
+### 📍 예습과제 (~3/24)
+
+- 3월 24일 목요일 23:59 분까지
+  
+⭐ 아래의 노트를 예습해 주세요. **코드 분석 + 활용 모델 관련 개념 정리 등** 자유롭게 필사하시어 pdf / ipynb 형태로 깃허브에 업로드해 주세요.
+- [데이콘 바로가기](https://dacon.io/competitions/official/235870/codeshare/4425?page=1&dtype=recent)
+- [최종 깃허브 바로가기](https://github.com/With-Coding-Cat/LG_plant_disease_diagnosis_competition/tree/main/competition)
+
+
+</div>
+</details>
+
