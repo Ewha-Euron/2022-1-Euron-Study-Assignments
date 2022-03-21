@@ -63,3 +63,61 @@
 
 </div>
 </details>
+
+
+<details>
+<summary>DA</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 3    | 필사 | 박보영, 손소현, 오수진 | [📚]()    |
+
+
+## **Assignment**
+
+### **📍 예습과제 (~3/28)**
+
+1️⃣ 파이썬 머신러닝 완벽 가이드 08, 09 분류 실습 파트를 필사하여 주피터나 구글 코랩으로 실행한 실습 코드들을 ipynb 형식으로 정리
+  
+  - 카톡방에 공유된 노트 필사 방법 참고 
+
+  
+**예습과제 제출 방법**
+
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master` branch에서 pull request 를 진행해주세요.
+>
+  
+- 과제 제출 방법
+    - 레포: (origin) username/2022-1-Euron-Study-Assignments
+    - 브랜치: `master`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
+  
+  
+### **📍 복습과제 (~3/28)**
+  
+1️⃣ [캐글 심장병 발병 예측 노트북](https://www.kaggle.com/code/kaanboke/beginner-friendly-catboost-with-optuna)을 주피터나 구글 코랩으로 실행한 실습 코드들을 ipynb 형식으로 정리
+
+- DA 레포지토리 Week4 브랜치에 올라온 복습과제 ipynb 파일을 완료하신 후 깃허브에 올려주세요.
+
+**복습과제 제출 방법**
+
+> 해당 파일을 Assignment 레포지토리 `Week_4` branch에 업로드하신 후 해당 `Week_4` branch에서 pull request를 진행해주세요.
+> 
+
+
+  
+### Due 
+  
+* Preview
+  - **3월 28일**까지 제출합니다.
+  
+* Review
+  - **3월 28일**까지 제출합니다.
+  
+
+</div>
+</details>
+
