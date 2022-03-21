@@ -10,34 +10,40 @@
 | 4    | cs231n 4주차     | 하수민, 구미진                       | [📚]()    |
 
 
+## **Assignment**
 
-## Requirements
+### **📍 4주차 예습과제 (~3/28)**
 
-❗️Local Environment (Jupyter Notebook) 가 아닌  `Google Colab` 을 이용해주세요. ( 미리 설치하실 것은 따로 없으며, Assignment 절차를 따라주시면 됩니다. )
+1️⃣ CS231N 4강을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드  
+2️⃣ (선택) 질문 사항이나 공유하고 싶은 내용 `Ewha-Euron/2022-1-Euron-CV` issue에 추가
 
-<img width="848" alt="Screenshot 2021-03-21 at 19 53 57" src="https://user-images.githubusercontent.com/49134038/111903237-9086c680-8a84-11eb-8652-19a7668d106a.png">
+**예습과제 제출 방법**
 
-* 1주차 과제 시 업로드 했던 구글 드라이브의 assignment1을 이용합니다.
+> 해당 파일을 master branch에 업로드하신 후 해당 master branch에서 pull request 를 진행해주세요.
+> 
 
+  
+### **📍 3주차 복습과제 (~3/28)**
 
+- [https://cs231n.github.io/assignments2021/assignment1/](https://cs231n.github.io/assignments2021/assignment1/)의 `Q2: Training a Support Vector Machine` 을 완료해주세요.
+    
+    1️⃣ `softmax.ipynb` 을 완료하신 후, `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)
+    - 파일명: `main_softmax.py` 
+  
+    2️⃣ `softmax.py` 을 제출해주세요.
+    
 
-## Assignment
+**복습과제 제출 방법**
 
-* https://cs231n.github.io/assignments2020/assignment1/ 의 `Q3: Implement a Softmax classifier (20 points)` 을 완료해주세요.
+> 해당 파일을 Week_4 branch에 업로드하신 후 해당 Week_4 branch에서 pull request 를 진행해주세요.
+> 
 
-  💥 **Submission**
+## **Due**
 
-
-
-## Submission
-
-> 명시된 파일을 구글 드라이브에서 다운받아 해당 `Week_4`  branch에 업로드하신 후 `pull request` 를 진행해주세요.
-
-
-1. `softmax.ipynb` 을 완료하신 후, `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)
-   * 파일명: `main_softmax.py`
-2. `softmax.py` 을 제출해주세요.
-
+- 4주차 예습과제
+    - **3월 28일**까지 제출합니다.
+- 3주차 복습과제
+    - **3월 28일**까지 제출합니다.
 
 
 ## Extra-Credit
