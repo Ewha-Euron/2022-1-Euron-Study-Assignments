@@ -67,7 +67,7 @@
 <details>
 <summary>DA</summary>
 <div markdown="1">       
-   ## 중간고사 휴식기간
+  중간고사 휴식기간
 
 
 </div>
