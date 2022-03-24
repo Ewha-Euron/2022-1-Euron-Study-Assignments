@@ -190,14 +190,15 @@
 
 - 3월 31일 목요일 23:59 분까지
   
-⭐ 해당 대회의 데이터셋은 2017~2020년도의 직업 관련 설문조사 tabular data로 1등 코드의 난이도가 상당히 어렵습니다. 따라서 py 파일의 직접적인 필사보단, 'tabnet' 모델링에 대해 이해해보는 방식으로 이번주차 예습과제를 진행해주시면 좋을 것같습니다. 노션을 활용하여 코드필사 + 내용정리를 하시는걸 권장드립니다 😊
+⭐ 해당 대회의 데이터셋은 2017~2020년도의 직업 관련 설문조사 tabular data 로, target 변수인 직업코드 knowcode 를 예측하는 대회입니다. 1등 코드의 난이도가 상당히 어렵습니다. 따라서 py 파일의 직접적인 필사보단, 'tabnet' 모델링에 대해 이해해보는 방식으로 이번주차 예습과제를 진행해주시면 좋을 것같습니다. 노션을 활용하여 코드필사 + 내용정리를 하시는걸 권장드립니다 😊
   
   1. [데이터셋 확인 및 대회 목적 참고 영상](https://www.youtube.com/watch?v=EJkOe9CKkVA)  👉 데이터셋 파악  
   
-  2. [baselinecode](https://dacon.io/competitions/official/235865/codeshare/3802?page=1&dtype=recent) 👉 대회의 목적 파악 
+  2. [baselinecode](https://dacon.io/competitions/official/235865/codeshare/3802?page=1&dtype=recent) 👉 대회의 목적 파악 (baseline 코드) 
   
   3. [1등 깃허브 링크](https://github.com/affjljoo3581/Job-Recommend-Competition) 👉 src 파일의 lightning.py , modeling.py 필사 추천! + 아래의 모델 로직을 함께 이해해보기
   ![1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8c32fe3d-ff74-4a5f-b906-b007bd723baa/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220324%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220324T030738Z&X-Amz-Expires=86400&X-Amz-Signature=f1733553560330473bf3c88fe9d8cbf3ea43be6c2c764e4b9b2d2717e1c33042&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject) 
+  
   
   4. Tabnet(정형 데이터를 위한 딥러닝 모델) 공부할 수 있는 링크 
   
@@ -210,7 +211,7 @@
     - https://velog.io/@jkl133/TabNet-Gradient-Boosting%EC%9D%98-%EC%A2%85%EB%A7%90
     - https://themore-dont-know.tistory.com/2
   
-  * tabnet code example  👉 tabnet 구현 코드 부분만 필사해보셔도 좋을 것 같습니다. 
+  * tabnet code example  👉 노트 중 하나를 골라 tabnet 구현 코드 부분만 필사해보셔도 좋을 것 같습니다. 
     - https://dacon.io/codeshare/2515
     - https://dacon.io/codeshare/3837?dtype=recent](https://dacon.io/codeshare/3837?dtype=recent
     - https://www.kaggle.com/code/datafan07/optiver-volatility-predictions-using-tabnet
