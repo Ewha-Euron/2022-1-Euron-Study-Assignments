@@ -171,3 +171,51 @@
 </div>
 </details>
 
+
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 4    | Recommendation system : [KNOW기반 직업 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235865/overview/description) |김희숙, 이지호, 이수연 | [📚]()    |
+
+💥 week4 에서는 Tabnet (딥러닝을 이용한 추천시스템 구현) 에 대해서 다룹니다.
+  
+## Assignment
+### 📍 예습과제 (~3/31)
+
+- 3월 31일 목요일 23:59 분까지
+  
+⭐ 해당 대회의 데이터셋은 2017~2020년도의 직업 관련 설문조사 tabular data로 1등 코드의 난이도가 상당히 어렵습니다. 따라서 py 파일의 직접적인 필사보단, 'tabnet' 모델링에 대해 이해해보는 방식으로 이번주차 예습과제를 진행해주시면 좋을 것같습니다. 노션을 활용하여 코드필사 + 내용정리를 하시는걸 권장드립니다 😊
+  
+  1. [데이터셋 확인 및 대회 목적 참고 영상](https://www.youtube.com/watch?v=EJkOe9CKkVA)  👉 데이터셋 파악  
+  
+  2. [baselinecode](https://dacon.io/competitions/official/235865/codeshare/3802?page=1&dtype=recent) 👉 대회의 목적 파악 
+  
+  3. [1등 깃허브 링크](https://github.com/affjljoo3581/Job-Recommend-Competition) 👉 src 파일의 lightning.py , modeling.py 필사 추천! + 아래의 모델 로직을 함께 이해해보기
+  ![1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8c32fe3d-ff74-4a5f-b906-b007bd723baa/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220324%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220324T030738Z&X-Amz-Expires=86400&X-Amz-Signature=f1733553560330473bf3c88fe9d8cbf3ea43be6c2c764e4b9b2d2717e1c33042&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject) 
+  
+  4. Tabnet(정형 데이터를 위한 딥러닝 모델) 공부할 수 있는 링크 
+  
+  * [구글 공식 구현 코드](https://github.com/google-research/google-research/blob/master/tabnet/tabnet_model.py)
+  
+  * 논문 리뷰 블로그 
+    - https://lv99.tistory.com/83
+    - https://wsshin.tistory.com/5
+    - https://housekdk.gitbook.io/ml/ml/tabular/tabnet-overview
+    - https://velog.io/@jkl133/TabNet-Gradient-Boosting%EC%9D%98-%EC%A2%85%EB%A7%90
+    - https://themore-dont-know.tistory.com/2
+  
+  * tabnet code example  👉 tabnet 구현 코드 부분만 필사해보셔도 좋을 것 같습니다. 
+    - https://dacon.io/codeshare/2515
+    - https://dacon.io/codeshare/3837?dtype=recent](https://dacon.io/codeshare/3837?dtype=recent
+    - https://www.kaggle.com/code/datafan07/optiver-volatility-predictions-using-tabnet
+    - https://www.kaggle.com/code/chumajin/optiver-realized-tabnet-baseline#1.-TabNet
+  
+</div>
+</details>
+
