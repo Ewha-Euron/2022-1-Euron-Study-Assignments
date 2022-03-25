@@ -27,10 +27,9 @@
 
 - [https://cs231n.github.io/assignments2021/assignment1/](https://cs231n.github.io/assignments2021/assignment1/)의 `Q2: Training a Support Vector Machine` 을 완료해주세요.
     
-    1️⃣ `softmax.ipynb` 을 완료하신 후, `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)
-    - 파일명: `main_softmax.py` 
-  
-    2️⃣ `softmax.py` 을 제출해주세요.
+    1️⃣ `svm.ipynb` 을 완료하신 후, `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)  
+    2️⃣ `linear_svm.py` 을 제출해주세요.  
+    3️⃣ `linear_classifier.py` 을 제출해주세요.  
     
 
 **복습과제 제출 방법**
@@ -50,7 +49,7 @@
 
 * https://github.com/deeplearningzerotoall
 
-  * `lab-08` ~ `lab-09` 을 진행해주세요.
+  * `lab-06` ~ `lab-07` 을 진행해주세요.
   
 </div>
 </details>
