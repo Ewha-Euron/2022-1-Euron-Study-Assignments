@@ -203,11 +203,11 @@
   
   * [구글 공식 구현 코드](https://github.com/google-research/google-research/blob/master/tabnet/tabnet_model.py)
   
+  * [논문 원본](https://arxiv.org/pdf/1908.07442.pdf) 
+  
   * 논문 리뷰 블로그 
     - https://lv99.tistory.com/83
-    - https://wsshin.tistory.com/5
     - https://housekdk.gitbook.io/ml/ml/tabular/tabnet-overview
-    - https://velog.io/@jkl133/TabNet-Gradient-Boosting%EC%9D%98-%EC%A2%85%EB%A7%90
     - https://themore-dont-know.tistory.com/2
   
   * tabnet code example  👉 노트 중 하나를 골라 tabnet 구현 코드 부분만 필사해보셔도 좋을 것 같습니다. 
