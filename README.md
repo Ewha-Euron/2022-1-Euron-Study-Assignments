@@ -3,6 +3,7 @@
 ### ▶ [Computer Vision](https://github.com/Ewha-Euron/2022-1-Euron-CV)
 ### ▶ [Natural Language Processing](https://github.com/Ewha-Euron/2022-1-Euron-NLP)
 ### ▶ [Data Analysis](https://github.com/Ewha-Euron/2022-1-Euron-DA)
+### ▶ [Competition](https://github.com/Ewha-Euron/2022-1-Euron-CP)
 
 ## Curriculum
 
