@@ -149,7 +149,7 @@
 
 **복습과제 제출 방법**
 
-> 해당 파일을 Assignment 레포지토리 `Week_4` branch에 업로드하신 후 해당 `Week_4` branch에서 pull request를 진행해주세요.
+> 해당 파일을 Assignment 레포지토리 `Week_5` branch에 업로드하신 후 해당 `Week_5` branch에서 pull request를 진행해주세요.
 > 
 
 
