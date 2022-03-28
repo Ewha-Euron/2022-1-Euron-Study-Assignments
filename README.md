@@ -90,10 +90,10 @@
   
 ### 📍 복습과제(~4/4)
 
-1️⃣ .
+1️⃣  CS224N Assignment2 문제 Q2의 (b), (c) 풀어서 제출 
   
-  - 
-
+  - [CS224N 2019 Assignment2 문제](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.pdf)
+  - [CS224N 2019 Assignment2 코드](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/assignments/a2.zip) 
   
 ### 복습과제 제출 방법
   
