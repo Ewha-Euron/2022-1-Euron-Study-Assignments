@@ -147,9 +147,7 @@
   
 ### **📍 복습과제 (~3/28)**
   
-1️⃣ [캐글 심장병 발병 예측 노트북](https://www.kaggle.com/code/kaanboke/beginner-friendly-catboost-with-optuna)을 주피터나 구글 코랩으로 실행한 실습 코드들을 ipynb 형식으로 정리
 
-- DA 레포지토리 Week4 브랜치에 올라온 복습과제 ipynb 파일을 완료하신 후 깃허브에 올려주세요.
 
 **복습과제 제출 방법**
 
