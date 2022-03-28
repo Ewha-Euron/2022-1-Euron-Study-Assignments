@@ -53,4 +53,4 @@ hidden layor를 input node와 output node 사이에 100개를 추가한 것은 2
 NN 모델의 구조를 간단하게 보여주는데 여러 개의 노드들이 있는 layor를 거쳐 값이 도출되는 과정을 설명한다. 이런 방식을 Fully Connected (FC)라고 한다.
 
 4강은 Back propagation으로 W를 계산하는 방법을 배우고 NN 모델 맛보기를 했다.
-다음 강의에서는 CNN의 구조를 살펴본다.
+다음 5강에서는 CNN의 구조를 살펴본다.
