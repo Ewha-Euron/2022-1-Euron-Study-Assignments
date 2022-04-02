@@ -167,3 +167,42 @@
 </details>
 
 
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 5    | [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification) |한예송, 홍재령, 이지혜 | [📚]()    |
+
+💥 week5 에서는 단백질 패턴 **분류** 대회에 대하여 다룹니다.
+  
+## Assignment
+### 📍 예습과제 (~4/7)
+
+- 4월 7일 목요일 23:59 분까지
+
+아래 두 솔루션을 **키포인트 위주로 분석** 및 **필요하다고 판단되시는 부분에 한해 부분 필사**를 진행해 주세요.
+  
+
+(1) **[A CNN Classifier and a Metric Learning Model, 1st Place Solution](https://www.kaggle.com/competitions/human-protein-atlas-image-classification/discussion/78109)**
+  
+💡 깃허브 코드: https://github.com/CellProfiling/HPA-competition-solutions/tree/master/bestfitting
+
+💡 Keypoint: Loss Functions(FocalLoss+Lovasz, ArcFaceLoss)과  Metric Learning을 중심적으로 
+
+(2) **[part of 4th place solution: GAPNet & dual loss ResNet](https://www.kaggle.com/competitions/human-protein-atlas-image-classification/discussion/77300)**
+
+💡 깃허브 코드: https://github.com/CellProfiling/HPA-competition-solutions/tree/master/wienerschnitzelgemeinschaft
+
+💡 Keypoint: GAPNet, Dual Loss ResNet 
+
+  
+</div>
+</details>
+
+
+
