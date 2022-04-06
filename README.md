@@ -68,7 +68,7 @@
   
 ### **📍 복습과제 (~4/18)**
   
-1️⃣  [캐글 : 건강보험에서 청구하는 개인 의료비 예측](https://www.kaggle.com/code/janiobachmann/patient-charges-clustering-and-regression/notebook)을 필사한 뒤 새로운 방법론, 모델 등에 대해 추가적으로 조사하고 pdf/ipynb 형식으로 정리해주시기 바랍니다. 
+1️⃣  [캐글 : 노래 인기도 예측](https://www.kaggle.com/code/yasserh/song-popularity-prediction-best-ml-models)을 필사한 뒤 새로운 방법론, 모델 등에 대해 추가적으로 조사하고 pdf/ipynb 형식으로 정리해주시기 바랍니다. 
 
   
   
