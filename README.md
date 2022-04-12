@@ -86,7 +86,7 @@
 
 1️⃣  아래 구글 드라이브에서 ipynb 파일을 다운받아 필사 과제를 진행해주시면 됩니다. 
   
-  - [6주차 Language Model, Vanila RNN 실습](https://colab.research.google.com/drive/1RyTVvavR5yzGtoim73Sw_LLFKhhbdDd-?usp=sharing)
+  - [6주차 Language Model, Vanila RNN 실습](https://colab.research.google.com/drive/1WPKRI9j7StZ3kgOVdjntUwtn4RUjXXYo)
 
   
 ### 복습과제 제출 방법
