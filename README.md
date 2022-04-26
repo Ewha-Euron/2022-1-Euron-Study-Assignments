@@ -54,3 +54,46 @@
 
 </div>
 </details>
+
+
+
+<details>
+<summary>DA</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 10    | 7장 군집화 | 이의진, 김예진, 오수진 | [📚]()    |
+
+
+## **Assignment**
+
+### **📍 예습과제 (~5/9) **
+
+
+
+  
+  
+### **📍 복습과제 (~5/9)**
+  
+1️⃣ [와인 품질 예측](https://www.kaggle.com/code/sonalisingh1411/analysis-pca-red-wine-quality-prediction-87) 노트북을 필사하여 ipynb/pdf 파일형태로 제출해주세요.
+  
+  
+**복습과제 제출 방법**
+
+> 해당 파일을 Assignment 레포지토리 `Week_6` branch에 업로드하신 후 해당 `Week_6` branch에서 pull request를 진행해주세요.
+> 
+
+
+  
+### Due 
+
+  
+* Review
+  - **5월 9일**까지 제출합니다.
+  
+
+</div>
+</details>
