@@ -74,6 +74,40 @@
 <summary>DA</summary>
 <div markdown="1">       
 
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 8    | 파이썬 머신러닝 완벽가이드 6장 | 이서영 | [📚](https://github.com/Ewha-Euron/2022-1-Euron-DA/blob/master/DA_week7.pdf)    |
+
+
+## **Assignment**
+
+### **📍 예습과제 (~4/25)**
+
+1️⃣ 파이썬 머신러닝 완벽 가이드 6장을 정리한 pdf 제출
+   
+
+  
+**예습과제 제출 방법**
+
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master` branch에서 pull request 를 진행해주세요.
+>
+  
+- 과제 제출 방법
+    - 레포: (origin) username/2022-1-Euron-Study-Assignments
+    - 브랜치: `master`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
+  
+  
+### **📍 복습과제는 중간고사 휴식기간으로 쉬어갑니다.
+
+
+  
+### Due 
+  
+* Preview
+  - **4월 25일**까지 제출합니다.
 
 
 
