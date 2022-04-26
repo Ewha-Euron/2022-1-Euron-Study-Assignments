@@ -71,7 +71,7 @@
 
 ### **📍 예습과제 (~5/2)**
 
-1️⃣ [와인 품질 예측](https://www.kaggle.com/code/sonalisingh1411/analysis-pca-red-wine-quality-prediction-87) 해당 캐글 노트북을 필사하여 pdf/ipynb 파일 형태로 제출해주세요.
+1️⃣ [다양한 차원축소 기법들](https://www.kaggle.com/code/shivamb/dataset-decomposition-techniques) 해당 노트북에서 소개된, 책에서 다루지 않은 모델들에 대해 공부하고 정리한 파일을 pdf/ipynb 형식으로 제출해주세요. PCA 변형기법, ICA, factor analysis, t-SNE 등
    
 
   
