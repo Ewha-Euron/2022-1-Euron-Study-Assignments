@@ -78,7 +78,7 @@
   
 | 주차 | 내용         | 발표자                       | 발표자료 |
 | ---- | ------------ | ---------------------------- | -------- |
-| 8    | 파이썬 머신러닝 완벽가이드 6장 | 이서영, 오수진, 손소현 | [📚](https://github.com/Ewha-Euron/2022-1-Euron-DA/blob/master/DA_week7.pdf)    |
+| 8    | 파이썬 머신러닝 완벽가이드 6장 - 차원축소 | 이서영, 오수진, 손소현 | [📚](https://github.com/Ewha-Euron/2022-1-Euron-DA/blob/master/DA_week7.pdf)    |
 
 
 ## **Assignment**
