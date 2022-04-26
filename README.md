@@ -70,7 +70,7 @@
 
 ## **Assignment**
 
-### **📍 예습과제 (~5/9) **
+### **📍 예습과제 (~5/9)**
 
 
 
@@ -78,7 +78,8 @@
   
 ### **📍 복습과제 (~5/9)**
   
-1️⃣ [와인 품질 예측](https://www.kaggle.com/code/sonalisingh1411/analysis-pca-red-wine-quality-prediction-87) 노트북을 필사하여 ipynb/pdf 파일형태로 제출해주세요.
+
+  1️⃣ [와인 품질 예측](https://www.kaggle.com/code/sonalisingh1411/analysis-pca-red-wine-quality-prediction-87) 노트북을 필사하여 ipynb/pdf 파일형태로 제출해주세요.
   
   
 **복습과제 제출 방법**
