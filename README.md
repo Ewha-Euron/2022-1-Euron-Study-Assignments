@@ -2,20 +2,15 @@
 <details>
 <summary>CV</summary>
 <div markdown="1">     
-<br />
-
-| 주차 | 내용             | 발표자                               | 발표자료 |
-| ---- | ---------------- | ------------------------------------ | -------- |
-| 8    | cs231n 8주차     | 구미진, 민소연                       | [📚]()    |
-
-<br />
 
 ## **Assignment**
 
-### **📍 8주차 예습과제 (~5/2)**
+### **📍 8주차 예습과제 (~5/3)**
 
-1️⃣ CS231N 8강을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
-
+1️⃣ 다음 2가지의 튜토리얼을 완료한 후, 전체적인 과정을 정리한 글을 각각 업로드해주세요.  
+  - 이미지 분류 [Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py)  
+  - transfer learning [Pytorch](https://tutorials.pytorch.kr/beginner/transfer_learning_tutorial.html)  
+  
 2️⃣ (선택) 질문 사항이나 공유하고 싶은 내용 `Ewha-Euron/2022-1-Euron-CV` issue에 추가
 
 **예습과제 제출 방법**
@@ -50,7 +45,7 @@
 ## **Due**
 
 - 8주차 예습과제
-    - **5월 2일**까지 제출합니다.
+    - **5월 3일**까지 제출합니다.
 - 7주차 복습과제
     - **5월 2일**까지 제출합니다.
   
