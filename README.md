@@ -164,6 +164,9 @@
 | 9  | [Coronavirus tweets NLP - text classification](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification) |이지호,김희숙 | [📚]()    |
 
 💥 week9 에서는 NLP task 중 text classification 에 대하여 다룹니다. 대회 노트북은 아니지만 텍스트 임베딩과 관련된 여러 모델들을 실습해보시면 좋을 것 같습니다. 
+
+💛 텍스트 벡터화/임베딩 방법들에 대해 잘 정리해놓은 노트북 참고 : https://www.kaggle.com/code/nkitgupta/text-representations 
+  
   
 ## Assignment
 ### 📍 예습과제 (~5/6)
