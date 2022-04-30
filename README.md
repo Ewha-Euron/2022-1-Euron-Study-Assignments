@@ -152,3 +152,46 @@
 </div>
 </details>
 
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 9  | [Coronavirus tweets NLP - text classification](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification) |이지호,김희숙 | [📚]()    |
+
+💥 week9 에서는 NLP task 중 text classification 에 대하여 다룹니다. 대회 노트북은 아니지만 텍스트 마이닝과 관련된 여러 모델들을 실습해보시면 좋을 것 같습니다. 
+  
+## Assignment
+### 📍 예습과제 (~5/6)
+
+- 5월 6일 금요일 12:00 분까지 (정오 12시) 
+
+아래 노트북 주제 중 **하나를 골라** 필사 및 스터디를 진행해주세요. 
+  
+
+(1) EDA, TF-IDF embedding , ML classification 
+
+💡 EDA : https://www.kaggle.com/code/datatattle/covid-19-tweets-eda-viz
+
+💡 텍스트 벡터화, 분류 모델링 : https://www.kaggle.com/code/datatattle/battle-of-ml-classification-models
+  
+
+(2) Keras embedding 
+
+💡 노트북 : https://www.kaggle.com/code/himanshutripathi/covid-19-tweets-analysis-97-accuracy#Model-Creation--😍 
+
+
+
+(3) BERT, RoBERTa
+  
+💡 노트북 : https://www.kaggle.com/code/ludovicocuoghi/twitter-sentiment-analysis-with-bert-roberta 
+
+  
+</div>
+</details>
+
+
