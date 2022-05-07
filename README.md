@@ -159,3 +159,42 @@
 
 </div>
 </details>
+
+
+
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 10    | [인공지능 비트 트레이더 경진대회 시즌3](https://dacon.io/competitions/official/235740/overview/description) |이수연, 이지혜 | [📚]()    |
+
+💥 week10 에서는 금융 *시계열* 대회에 대하여 다룹니다.
+  
+## Assignment
+### 📍 예습과제 (~5/12)
+
+- 5월 12일 목요일 23:59 분까지
+
+아래 두 솔루션을 **키포인트 위주로 분석** 및 **필요하다고 판단되시는 부분에 한해 부분 필사**를 진행해 주세요.
+  
+
+(1) **[ARIMA 모델, 2위](https://dacon.io/competitions/official/235740/codeshare/2813?page=1&dtype=recent)**
+
+💡 Keypoint: ARIMA model
+
+(2) **[Prophet 모델, 3위](https://dacon.io/competitions/official/235740/codeshare/2812?page=2&dtype=recent)**
+
+💡 Keypoint: Prophet model
+  
+(3) **[ARMIA+Prophet 모델, 2위](https://dacon.io/competitions/official/235740/codeshare/2473?page=3&dtype=recent%27)**
+  
+(4) **[Comparing Prophet and Deep Learning to ARIMA in Forecasting Wholesale Food Prices](https://www.mdpi.com/2571-9394/3/3/40/htm)**
+ 혹시 시간이 되신다면 추가적으로 읽어주세요. 위 노트북에서 사용한 ARIMA, Prophet 모델과 NN의 예측성능을 비교한 논문입니다.
+  
+</div>
+</details>
