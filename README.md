@@ -194,7 +194,8 @@
 (3) **[ARMIA+Prophet 모델, 2위](https://dacon.io/competitions/official/235740/codeshare/2473?page=3&dtype=recent%27)**
   
 (4) **[Comparing Prophet and Deep Learning to ARIMA in Forecasting Wholesale Food Prices](https://www.mdpi.com/2571-9394/3/3/40/htm)**
- 혹시 시간이 되신다면 추가적으로 읽어주세요. 위 노트북에서 사용한 ARIMA, Prophet 모델과 NN의 예측성능을 비교한 논문입니다.
+ 
+  혹시 시간이 되신다면 추가적으로 읽어주세요. 위 노트북에서 사용한 ARIMA, Prophet 모델과 NN의 예측성능을 비교한 논문입니다.
   
 </div>
 </details>
