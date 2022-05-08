@@ -119,8 +119,11 @@
 
 1️⃣ 파이썬 머신러닝 완벽 가이드 7장 군집화의 chapter 6에 해당하는 실습 내용과 아래의 노트북을 필사해주세요.
 
-  * 캐글 노트북 : https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering
+  * [캐글 노트북](https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering)
   * key point : K-means clustering, Hierarchical Clustering, clustering analysis 
+ 
+2️⃣ [Customer Personality Analysis](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering) 노트북을 필사해주세요. 
+  * key point : K-means, model evaluation, Cluster EDA → cluster interpretation 
   
   
 **예습과제 제출 방법**
