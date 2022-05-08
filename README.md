@@ -186,10 +186,20 @@
 (1) **[ARIMA 모델, 2위](https://dacon.io/competitions/official/235740/codeshare/2813?page=1&dtype=recent)**
 
 💡 Keypoint: ARIMA model
+ 
+💡 참고 사이트
+  - [ARIMA 설명 웹사이트](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+  - [ARIMA 모델과 regression 비교 논문](https://www.jstor.org/stable/pdf/245725.pdf?casa_token=J4ighmMWuQ4AAAAA:1veLuIQr_fPpDgFX6tOFLuIIijb0Lg9mg_i3BCV9QIU2LaE02hXhQRP7cLONCGJJn7KEDi-GTQUIWlZl1DrUPgE7qM1TeJ5L37NBEhl7TBle_mYhYlRt)
 
 (2) **[Prophet 모델, 3위](https://dacon.io/competitions/official/235740/codeshare/2812?page=2&dtype=recent)**
 
 💡 Keypoint: Prophet model
+  
+💡 참고 사이트
+  - [Prophet 한국어 소개 웹사이트1](https://gorakgarak.tistory.com/1255)
+  - [Prophet 한국어 소개 웹사이트2](https://zzsza.github.io/data/2019/02/06/prophet/)
+  - [Prophet 예시 웹사이트](https://towardsdatascience.com/a-quick-start-of-time-series-forecasting-with-a-practical-example-using-fb-prophet-31c4447a2274)
+  - [Prophet 관련 논문](https://arxiv.org/ftp/arxiv/papers/2005/2005.07575.pdf)
   
 (3) **[ARMIA+Prophet 모델, 2위](https://dacon.io/competitions/official/235740/codeshare/2473?page=3&dtype=recent%27)**
   
