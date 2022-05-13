@@ -185,14 +185,29 @@
   
 | 주차 | 내용         | 발표자                       | 발표자료 |
 | ---- | ------------ | ---------------------------- | -------- |
-| 11    | ㅇ |ㅇ | [📚]()    |
+| 11    | NLP : [한국어 문장분류 경진대회](https://dacon.io/competitions/official/235875/codeshare) | 한예송, 홍재령 | [📚]()    |
 
+📌 전제 (premise) 문장을 참고해 가설 (hypothesis) 이 참/거짓/알수 없는 문장인지 판별하는 문제 → 한국어 문장 쌍 분석 모델 개발 (Natural language inference) 에 관한 대회입니다. 지난 NLP 주제 발표 때 다루었던 BERT 모델에서 나아가, 연산량 측면에서 개선을 보인 ELECTRA 모델과 RoBERT 모델을 활용한 노트북이 상위권 수상을 차지하였습니다. 따라서 두 모델에 대해 공부한 내용을 위주로 정리해주시면 좋을 것 같습니다. 
+  
+1️⃣  [1등 노트북](https://dacon.io/competitions/official/235875/codeshare/4589?page=1&dtype=recent) : ELECTRA , RoBERT model 
+  
+  1. ELECTRA 논문 리뷰 정리글 [참고자료1](https://blog.pingpong.us/electra-review/) , [참고자료2](https://lsjsj92.tistory.com/629)
 
+  2. [칼럼 자료](https://brunch.co.kr/@synabreu/55) : BERT/RoBERTa/GPT vs ELECTRA 
+
+  3. [koELECTRA](https://github.com/monologg/KoELECTRA?fbclid=IwAR24cNNi4cDNIxt6G1IHuz99edmhiWmECcW_bzcw5W7x1cBRicqV3zdVvvM)
+  
+  4. Arcface : [참고자료1](https://butter-shower.tistory.com/237) , [참고자료2](https://velog.io/@gtpgg1013/논문리뷰-ArcFace-Additive-Angular-Margin-Loss-for-Deep-Face-Recognition)
+  
+
+2️⃣  [2등 노트북](https://dacon.io/competitions/official/235875/codeshare/4631?page=1&dtype=recent) 
+
+- RoBERT : [참고자료1](https://lsjsj92.tistory.com/626) , [참고자료2](https://brunch.co.kr/@choseunghyek/7)
   
 ## Assignment
-### 📍 예습과제 (~0/0)
+### 📍 예습과제 (~5/19)
 
-- 0월 0일 0요일 23:59 분까지
+- 5월 19일 목요일 23:59 분까지
 
   
 
