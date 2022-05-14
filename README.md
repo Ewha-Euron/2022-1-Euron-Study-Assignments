@@ -46,11 +46,19 @@
   
   
   
+  
+  
 ### **📍 복습과제 (~5/30)**
   
-👀 12주차 내용에 대한 복습과제 입니다. 아래의 2개 노트북 중 하나를 선택하여 필사를 진행해주세요. 
+👀 12주차 내용에 대한 복습과제 입니다. 아래의 노트북에 대하여 필사를 진행해주세요. 
   
+  1️⃣ **Text classification - 감정분석** 
   
+  * [Women's E-Commerce Clothing Reviews](https://www.kaggle.com/code/shirellamosi/sentiment-analysis-nlp#WordCloud---Repetition-of-words) 
+  
+  2️⃣ **Topic modeling** 
+  
+  * [GSDM,LDA,LSI](https://www.kaggle.com/code/ptfrwrd/topic-modeling-guide-gsdm-lda-lsi/notebook#LSI-model)
   
   
   
