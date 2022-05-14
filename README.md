@@ -61,14 +61,14 @@
   
 | 주차 | 내용         | 발표자                       | 발표자료 |
 | ---- | ------------ | ---------------------------- | -------- |
-| 12    | 9장 추천시스템 |오연재, 김예진, 박보영  | [📚]()    |
+| 12    | 8장 텍스트 분석 (1) |오연재, 김예진, 박보영  | [📚]()    |
 
 
 ## **Assignment**
 
 ### **📍 예습과제 (~5/23)**
 
-
+👀 파이썬 머신러닝 완벽 가이드 8장 **chpater 01~06** 파트를 공부한 내용을 정리하여 ipynb, pdf 파일 형식으로 제출해주세요.
   
   
 **예습과제 제출 방법**
@@ -88,16 +88,20 @@
 👀 10주차 군집화 필사 내용에 대한 복습과제 입니다. 아래의 4개 노트북 중 2개를 선택하여 필사를 진행해주세요. 
   
   1️⃣ [Mall Customer Segmentation Data](https://www.kaggle.com/code/jaykumar1607/customer-segmentation-modelling-visuals) 
-    * key point : k-menas clustering , Silhouette analysis, AgglomerativeClustering , DBSCAN 
+    
+  * key point : k-menas clustering , Silhouette analysis, AgglomerativeClustering , DBSCAN 
   
   2️⃣ [H&M recommendation_1](https://www.kaggle.com/code/lichtlab/h-m-data-deep-dive-chap-1-understand-article/notebook) 
-    * key point : 계절별 판매 경향을 기준으로 제품 군집화, GMM clustering 
+    
+  * key point : 계절별 판매 경향을 기준으로 제품 군집화, GMM clustering 
   
   3️⃣ [H&M recommendation_2](https://www.kaggle.com/code/negoto/h-m-sales-period-of-fashion-items-with-k-means#K-means-Clustering-by-Monthly-Sales) 
-    * key point :  월별 매출을 기준으로 제품 군집화 , K-means clustering 
+    
+  * key point :  월별 매출을 기준으로 제품 군집화 , K-means clustering 
   
   4️⃣ [위스콘신 유방암 데이터](https://www.kaggle.com/code/bhuvanchennoju/women-and-cancer-analysis-and-detection) 
-    * key point : dbscan 의 noise point 를 통해 outlier 제거, 차원축소 UMAP 시각화 
+    
+  * key point : dbscan 의 noise point 를 통해 outlier 제거, 차원축소 UMAP 시각화 
   
   
   
