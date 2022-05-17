@@ -49,9 +49,61 @@
 <div markdown="1">       
 
 
+| 주차 | 내용             | 발표자                               | 발표자료 |
+| ---- | ---------------- | ------------------------------------ | -------- |
+| 11    | cs224n 11주차     | 임세영, 김나현              | [📚]()    |
+
+## Assignment
+  
+### 📍 예습과제(~5/23)
+  
+1️⃣ CS224N **11강** 을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
+
+2️⃣ (선택) 질문 사항이나 공유하고 싶은 내용 깃허브 issue에 추가
+- 과제 제출 방법
+    - 레포: (origin) Ewha-Euron/2022-1-Euron-NLP
+    - issue 추가
+        - 제목: [11주차] 질문 있습니다/~ 내용 공유합니다.
+        - label:
+            - 강의 내용 중 이해가 잘 되지 않는 부분 `question`
+            - 강의에는 없지만 추가로 궁금한 사항 `question`
+            - 강의에는 없지만 추가로 공유하고 싶은 내용 `share`
+
+### 예습과제 제출 방법
+  
+> 해당 파일을 `master` branch에 업로드하신 후 해당 `master`  branch에서  `pull request` 를 진행해주세요.
+  
+- 과제 제출 방법
+    - 레포: (origin) username/2022-1-Euron-Study-Assignments
+    - 브랜치: `master`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `예습과제`
+  
+### 📍 복습과제(~5/23)
+
+1️⃣  이번 주차에는 NLP에서 중요한 주제인 **Attention**에 대해 더욱 깊게 알아보고, 이해하는 시간을 가집니다. 아래 **논문의 1, 2, 3, 4절**을 읽고, 자신만의 방식대로 요약해서 요약문을 제출해 주세요. :) (html, ipynb, pdf 파일 가능) 저번 주차 과제에 있었던 [개념 복습](https://wikidocs.net/22893)을 적극 활용하셔도 좋습니다.
+  
+  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  - [참고 자료: Why is Attention?](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
+  - [참고 자료: Attention is all you need: understanding with example](https://medium.com/data-science-in-your-pocket/attention-is-all-you-need-understanding-with-example-c8d074c37767)
+  
+### 복습과제 제출 방법
+  
+> 해당 파일을 `Week_12` branch에 업로드하신 후 해당 `Week_12`  branch에서  `pull request` 를 진행해주세요.
+  
+- 과제 제출 방법
+    - 레포: (origin) username/2022-1-Euron-Study-Assignments
+    - 브랜치: `Week_12`
+    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP` , `복습과제`
+  
+
+## Due
+  
+📍 **5월 23일**까지 제출합니다.   
 
 </div>
 </details>
+
+
 
 <details>
 <summary>DA</summary>
