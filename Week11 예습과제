@@ -1,0 +1,93 @@
+### Image Segmentation
+
+semantic Segmentation: 이미지의 픽셀들이 어떤 클래스에 속하는지 예측하는 과정
+Classification처럼 미리 클래스의 수와 종류를 정해 놓아야 한다. 단, 개별 객체가 구분되지 않는다는 단점이 있다.
+
+이를 구현하기 위한 방법으로는
+
+1. Sliding Window → Patch를 만들고 전체 영역을 모두 돌면서 한 픽셀이 어느 카테고리에 들어가는지 찾는 방법
+계산량이 너무 많다는 단점이 있음
+2. Fully Convolutional Network → 입력의 Spatial Size를 유지해야한다는 특징이 있다. 모든 픽셀에 대해 카테고리 Score를 계산해야 하기 때문에 계산량이 많다.
+3. 2번에서 FC Layer 대신 Spatial resolution을 다시 키우는 방법이 제안
+이 과정에서 Upsampling이라는 과정을 거친다.
+
+### Upsampling
+
+간단히 말하자면 Downsampling의 역과정이라고 생각하면 된다. 이미지의 사이즈를 늘리게 되면 빈 공간이 생겨날텐데, 이런 빈 공간을 채우는 Issue가 발생.
+
+이를 해결하는 방법으로는
+
+1. Unpooling
+단순히 0으로 채우거나 인접한 값을 복사하여 채운다.
+2. Max Unpooling
+대부분의 네트워크가 downsampling 과정을 거칠 때 Maxpooling 가정을 거치는데 네트워크가 주로 대칭적인 특징을 가지고 있어 그 위치로 Upsampling을 하는 과정이다.
+3. Transpose Convolution
+Convolution 연산을 행렬로 생각하고 내적의 과정으로 이해할 수 있다. 
+
+입력값을 가중치라고 생각하고, 필터의 값을 곱해서 output에 채워넣는다. 만약 겹치는 부분이 있을 경우 그 구간에 있는 값들을 모두 더해주면 된다.
+Deconvolution / Upconvolution / Fractionally strided convolution / Backward strided convolution
+
+### Instance Segmentation
+
+Semantic Segmentation은 개별 객체를 구분할 수 없다는 단점이 있었다. 이 단점을 보완하기 위해 나온 방법이 Instance Segmentation이다.
+
+각각의 픽셀 별로 카테고리 score를 매기는 방식이 아니라 각각 픽셀 별로 Object가 있는지 없는지를 판단한다.
+Instance Segmentation과 Object Detection을 결합하여 만들어진 대표적인 알고리즘 = Mask R-CNN이다.
+
+Classification + Localization
+
+Classification과 Localization은 이미지에서 하나의 물체에 대해 그 물체가 어떤 것에 속하고, 그 물체가 어디에 위치해 있는지 찾아내는 Task이다.
+
+보통 Image Classification을 위한 네트워크는 최종적으로 하나의 FC 층이 존재하지만 이 Task는 2개의 FC 층을 이용하여 Bounding Box와 Classification을 찾는다. 
+따라서 학습을 시킬 때 2개의 Loss function을 이용한다. Multi task Loss이기 때문에 네트워크 가중치들의 각각의 미분값을 사용하므로 Loss function의 단위가 달라도 gradient 계산이 가능하다.
+
+Object Detection
+
+한 장의 이미지에서 다수의 물체를 찾고 그 물체가 어디 있는지 알아내는 Task이다. Classification + Localization과 달리 이미지 마다 객체의 수가 달라져 이를 미리 예측할 수 없다. 즉, 더 어려운 Task이다.
+
+2-stage Detector / 1-stage Detector 두 가지가 있다.
+이를 나누는 기준은 Classification과 Localization을 단계별로 할 경우: 2-stage, 이를 한 번에 진행할 경우 1-stage이다.
+
+R-CNN
+
+- Selective Search Algorithm: 딥 러닝을 사용하지 않고 Rule based로 된 알고리즘으로 물체가 있는 영역을 찾는데 효과적인 알고리즘이다.
+
+Region Proposals은 딥러닝을 쓰지않고 찾는 방법 중 가장 성능이 좋은 알고리즘이다.
+간단히 설명하면 물체의 스케일이나 위치를 모두 고려해 모든 후보군을 처음에 샅샅이 조사한 다음, Greedy Algorithm을 이용해서 여러 영역에서 비슷한 부분을 합치는 식으로 영역을 통합하는 방법이다. → Region of Interest = RoI를 추출
+→ RoI를 CNN에 training 시키기 위해 input size를 맞춰줌
+→ CNN을 통과한 다음 SVM을 통해서 Classification 과정을 거침.
+→ Linear Regression을 통해서 Bounding BoX도 Loss 값을 계산
+→ 2개의 Loss가 최소가 되는 방향으로 training
+
+- 계산량이 많다.
+- Memory가 많이 든다.
+- 학습 과정이 느리다
+- Test time이 느리다.
+- 학습되지 않는 Region Proposal이 존재한다.
+
+Fast R-CNN
+
+계산 비용이 많이 드는 이유 → 각각의 RoI 영역에서 CNN 과정을 다 진행시켜서
+
+⇒ Fast R-CNN에서는 Input Image에 대해 한 번의 CNN 과정을 거친다.
+→ Feature Map에서 Region Proposal을 찾아낸다.
+→ RoI의 영역에 모두 다른 Issue가 발생
+* 일반적인 방법으로 Pooling을 통해 Input size를 맞춰야하는데 RoI가 달라서 문제가 생긴다.
+→ RoI pooling이라는 새로운 기법을 이용하여 Feature map의 size를 통일
+→ FC 층을 통해서 Classification에 대한 Loss 값을 계산
+→ 마찬가지로 Bounding Box에 대한 Loss 값 계산
+
+Faster R-CNN
+
+Feature map을 만드는 CNN과 그 이후 classification + localization하는데 사용하는 CNN을 공유해서 사용한다는 아이디어에서 출발한다.
+
+*RPN classify object / not object (binary classification)RPN regress box coordinatesFinal classification score (object classes)Final box coordinates*
+
+이렇게 4개의 Loss function이 필요하다.
+
+RPN은 Region Proposal Network를 의미한다.
+Faster R-CNN에서는 총 9개의 anchor box를 사용한다.
+
+Anchor box란 물체의 모양이 어더게 생겼는지 모르니 서로 다른 비율의 Bounding box를 만들고, 모두 시도를 해서 최적의 Bounding box를 찾기 위해 사용하는 것
+
+물체가 있을 확률 = IoU → 내가 예측한 Bounding Box의 크기과 실제 GT의 값을 비교해보는 것
