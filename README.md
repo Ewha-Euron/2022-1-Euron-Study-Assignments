@@ -14,6 +14,19 @@
 </div>
 </details>
 
+
+<details>
+<summary>DA</summary>
+<div markdown="1">       
+
+<br />  
+  
+## 기말고사 휴식기간 입니다. 
+  
+</div>
+</details>
+
+
 <details>
 <summary>NLP</summary>
 <div markdown="1">       
