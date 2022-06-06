@@ -41,7 +41,7 @@
 
 1️⃣ 아래 구글 드라이브에서 ipynb 파일을 다운받아 필사 과제를 진행해주시면 됩니다.
   
-  - [Subwords 실습](https://drive.google.com/file/d/17Xx2YU0ZSB9PqFeN22MdvTPHyHnqUMYN/view?usp=sharing)
+  - [Subwords 실습](https://colab.research.google.com/drive/1wcnfikPcrDq0L_Su2JtPOgfwhKy_cWEg?usp=sharing)
   
 ### 복습과제 제출 방법
   
