@@ -1,75 +1,143 @@
-## EURON 2기 - 스터디팀 12주차
+## EURON 2기 - 스터디팀 15주차
 <details>
 <summary>CV</summary>
 <div markdown="1">       
-
-<br />
+  
+  <br />
   
 | 주차 | 내용             | 발표자                               | 발표자료 |
 | ---- | ---------------- | ------------------------------------ | -------- |
-| 12   | cs231n 12주차 | 최예은, 하수민       | [📚]()    |
+| 15   | cs231n 13주차 | 최지우, 구미진 | [📚]()    |
   
-<br />
+  <br />
+  
+  ## **Assignment**
 
+### **📍 15주차 예습과제 (~6/20)**
 
-## **Assignment**
+1️⃣ CS231N 13강을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
 
-### **📍 12주차 예습과제 (~6/13)**
-
-1️⃣ CS231N 12강을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
-
-2️⃣ (선택) 질문 사항이나 공유하고 싶은 내용 `Ewha-Euron/2022-1-Euron-CV` issue에 추가
+2️⃣ (선택) 질문 사항이나 공유하고 싶은 내용 `Ewha-Euron/2022-1-Euron-CV` issue에 추가
 
 **예습과제 제출 방법**
 
-> 해당 파일을 master branch에 업로드하신 후 해당 master branch에서 pull request 를 진행해주세요.
+> 해당 파일을 master branch에 업로드하신 후 해당 master branch에서 pull request 를 진행해주세요.
 > 
+### **📍 14주차 복습과제 (~6/20)**
 
-### **📍 11주차 복습과제 (~6/13)**
-
-- [https://cs231n.github.io/assignments2021/assignment3/](https://cs231n.github.io/assignments2021/assignment3/)의 `Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images (15 points)` 을 완료해주세요.
+- [https://cs231n.github.io/assignments2021/assignment3/](https://cs231n.github.io/assignments2021/assignment3/)의 `Q5: Self-Supervised Learning for Image Classification (20 points)` 을 완료해주세요.
     
-    1️⃣ `Network_Visualization.ipynb` 을 완료하신 후, `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)
+    1️⃣ `Self_Supervised_Learning.ipynb` 을 완료하신 후, `.py` 파일로 변환해서 제출해주세요. (모든 cell을 하나의 py 파일에 합쳐주세요)
     
-    - 파일명: `network_visualization.py`
+    - 파일명: `self_supervised_learning.py`
 
 **복습과제 제출 방법**
 
-> 해당 파일을 Week_12 branch에 업로드하신 후 해당 Week_12 branch에서 pull request 를 진행해주세요.
+> 해당 파일을 Week_15 branch에 업로드하신 후 해당 Week_15 branch에서 pull request 를 진행해주세요.
 > 
-
 ## **Due**
 
-- 12주차 예습과제
-    - **6월 13일**까지 제출합니다.
-- 11주차 복습과제
-    - **6월 13일**까지 제출합니다.
-
-
+- 15주차 예습과제
+    - **6월 20일**까지 제출합니다.
+- 14주차 복습과제
+    - **6월 20일**까지 제출합니다.
   
 </div>
 </details>
 
+
 <details>
+<summary>DA</summary>
+<div markdown="1">       
+
+<br />  
+  
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 13    | 프로젝트 아이데이션 | ALL | [📚]()    |
+
+
+## 아이데이션 준비해오기 
+  
+  👉 관심있는 도메인 / 주제 / 데이터 유무 등을 기준으로 ppt 한 장 정도의 발표 분량을 준비해주시면 됩니다. 
+  
+```
+  EX. 이커머스 / H&M kaggle data 로 추천 시스템 구현하기 / 활용 데이터 : https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
+```  
+  
+  
+  
+### **📍 복습과제 (~6/20)**
+  
+👀 6/14 세션 내용에 대한 복습과제 입니다. 아래의 데이콘 대회와 캐글 노트북 중 최소 2개를 골라 필사를 진행해주세요. 
+  
+  
+1️⃣ 로그 분석을 통한 보안 위험도 예측 AI 경진대회 
+
+- basline :  [https://dacon.io/competitions/official/235717/codeshare/2536?page=1&dtype=recent]
+- 1등 코드 : [https://dacon.io/competitions/official/235717/codeshare/2679?page=2&dtype=recent]
+- keypoint : 딥러닝 방법보단 threshold 의 세부적인 설정이 오히려 성능이 좋았다는 점, 로그 문장 데이터의 전처리 (정규표현식)
+
+2️⃣ 금융문자 분석 경진대회 
+
+- 금융 문자 데이터로 스팸문자를 분류
+- baseline : [https://dacon.io/competitions/official/235401/codeshare/629?page=1&dtype=recent]
+- keypoint : mecab 전처리
+
+4️⃣ 자연어 기반 기후기술분류 AI 경진대회 
+
+- 기후 기술에 관한 연구개발 문헌을 ‘기후기술분류체계’ 에 맞추어 라벨링하는 알고리즘 개발
+- basline : [https://dacon.io/competitions/official/235744/codeshare/2873?page=1&dtype=recent]
+- keypoint : okt 전처리, 불용어 제거
+
+5️⃣ Covid Literature clustering 
+
+- [https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering]
+- keypoint : PCA, 문서 clustering , Topic Modeling on Each Cluster
+  
+  
+  
+**복습과제 제출 방법**
+
+> 해당 파일을 Assignment 레포지토리 `Week_15` branch에 업로드하신 후 해당 `Week_15` branch에서 pull request를 진행해주세요.
+> 
+
+  
+### Due 
+
+  
+* Review
+  - **6월 20일**까지 제출합니다.
+  
+  
+</div>
+</details>
+
+
+details>
 <summary>NLP</summary>
 <div markdown="1">       
 
 
 | 주차 | 내용             | 발표자                               | 발표자료 |
 | ---- | ---------------- | ------------------------------------ | -------- |
-| 12    | cs224n 12주차     | 조서영, 김소민          | [📚]()    |
+| 15    | cs224n 13강     | 김나현, 김소민          | [📚]()    |
 
 ## Assignment
+
+휴식 기간으로 이번 주차는 복습 과제가 없고, 예습 과제만 있습니다.
   
-### 📍 예습과제(~5/23)
+### 📍 예습과제(~6/20)
   
-1️⃣ CS224N **11강** 을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
+1️⃣ CS224N **13강** 을 수강하고, 요약 및 정리한 내용을 깃허브에 업로드
 
 2️⃣ (선택) 질문 사항이나 공유하고 싶은 내용 깃허브 issue에 추가
 - 과제 제출 방법
     - 레포: (origin) Ewha-Euron/2022-1-Euron-NLP
     - issue 추가
-        - 제목: [12주차] 질문 있습니다/~ 내용 공유합니다.
+        - 제목: [15주차] 질문 있습니다/~ 내용 공유합니다.
         - label:
             - 강의 내용 중 이해가 잘 되지 않는 부분 `question`
             - 강의에는 없지만 추가로 궁금한 사항 `question`
@@ -84,117 +152,6 @@
     - 브랜치: `master`
     - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `예습과제`
   
-### 📍 복습과제(~5/23)
-
-1️⃣  이번 주차에는 NLP에서 중요한 주제인 **Attention**에 대해 더욱 깊게 알아보고, 이해하는 시간을 가집니다. 아래 **논문의 1, 2, 3, 4절**을 읽고, 자신만의 방식대로 요약해서 요약문을 제출해 주세요. :) (html, ipynb, pdf 파일 가능) 저번 주차 과제에 있었던 [개념 복습](https://wikidocs.net/22893)을 적극 활용하셔도 좋습니다.
-  
-  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-  - [참고 자료: Why is Attention?](https://medium.com/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129)
-  - [참고 자료: Attention is all you need: understanding with example](https://medium.com/data-science-in-your-pocket/attention-is-all-you-need-understanding-with-example-c8d074c37767)
-  
-### 복습과제 제출 방법
-  
-> 해당 파일을 `Week_12` branch에 업로드하신 후 해당 `Week_12`  branch에서  `pull request` 를 진행해주세요.
-  
-- 과제 제출 방법
-    - 레포: (origin) username/2022-1-Euron-Study-Assignments
-    - 브랜치: `Week_12`
-    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `NLP` , `복습과제`
-  
-
-## Due
-  
-📍 **5월 23일**까지 제출합니다.   
 
 </div>
 </details>
-
-
-
-<details>
-<summary>DA</summary>
-<div markdown="1">       
-
-<br />  
-  
-| 주차 | 내용         | 발표자                       | 발표자료 |
-| ---- | ------------ | ---------------------------- | -------- |
-| 12    | 8장 텍스트 분석 (1) |오연재, 김예진, 박보영  | [📚](https://github.com/Ewha-Euron/2022-1-Euron-DA/blob/master/DA_week12.pdf)    |
-
-
-## **Assignment**
-
-### **📍 예습과제 (~5/23)**
-
-👀 파이썬 머신러닝 완벽 가이드 8장 **chpater 01~06** 파트를 공부한 내용을 정리하여 ipynb, pdf 파일 형식으로 제출해주세요.
-  
-  
-**예습과제 제출 방법**
-
-> 해당 파일을 `master` branch에 업로드하신 후 해당 `master` branch에서 pull request 를 진행해주세요.
->
-  
-- 과제 제출 방법
-    - 레포: (origin) username/2022-1-Euron-Study-Assignments
-    - 브랜치: `master`
-    - 해당 주차 브랜치에 과제 업로드하고 Pull Request, 이때 label은 `DA` , `예습과제`
-  
-  
-  
-  
-  
-### **📍 복습과제 (~5/23)**
-  
-👀 11주차 군집화 필사 내용에 대한 복습과제 입니다. 아래의 4개 노트북 중 2개를 선택하여 필사를 진행해주세요. 
-  
-  
-  1️⃣ [Mall Customer Segmentation Data](https://www.kaggle.com/code/jaykumar1607/customer-segmentation-modelling-visuals) 
-    
-  * key point : k-menas clustering , Silhouette analysis, AgglomerativeClustering , DBSCAN 
-  
-  2️⃣ [H&M recommendation_1](https://www.kaggle.com/code/lichtlab/h-m-data-deep-dive-chap-1-understand-article/notebook) 
-    
-  * key point : 계절별 판매 경향을 기준으로 제품 군집화, GMM clustering 
-  
-  3️⃣ [H&M recommendation_2](https://www.kaggle.com/code/negoto/h-m-sales-period-of-fashion-items-with-k-means#K-means-Clustering-by-Monthly-Sales) 
-    
-  * key point :  월별 매출을 기준으로 제품 군집화 , K-means clustering 
-  
-  4️⃣ [위스콘신 유방암 데이터](https://www.kaggle.com/code/bhuvanchennoju/women-and-cancer-analysis-and-detection) 
-    
-  * key point : dbscan 의 noise point 를 통해 outlier 제거, 차원축소 UMAP 시각화 
-  
-  
-  
-  
-**복습과제 제출 방법**
-
-> 해당 파일을 Assignment 레포지토리 `Week_12` branch에 업로드하신 후 해당 `Week_12` branch에서 pull request를 진행해주세요.
-> 
-
-
-  
-### Due 
-
-  
-* Review
-  - **5월 23일**까지 제출합니다.
-  
-
-</div>
-</details>
-
-
-
-
-<details>
-<summary>CP</summary>
-<div markdown="1">       
-
-<br />  
-  
-| 주차 | 내용         | 발표자                       | 발표자료 |
-| ---- | ------------ | ---------------------------- | -------- |
-| 12    | ㅇ |ㅇ | [📚]()    |
-
-
