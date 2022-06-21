@@ -195,7 +195,7 @@
   
 | 주차 | 내용         | 발표자                       | 발표자료 |
 | ---- | ------------ | ---------------------------- | -------- |
-| 12 | ML : [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/code?competitionId=8540&sortBy=voteCount) | 한예송, 홍재령 | [📚]()    |
+| 12 | ML : [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description) | 한예송, 홍재령 | [📚]()    |
 
 📌 임대주택 설계 시 단지 내 적정 주차 수요를 예측하는 대회입니다. 이번 세션에서는 AutoML을 소개할 예정입니다. 노트북의 전체적인 파이프라인이나 EDA보다는 AutoML이 무엇인지, 어떻게 사용되는지 확인하는데 초점을 맞춰주세요.
   
