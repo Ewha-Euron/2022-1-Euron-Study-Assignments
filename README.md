@@ -120,7 +120,7 @@
 </details>
 
 
-details>
+<details>
 <summary>NLP</summary>
 <div markdown="1">       
 
