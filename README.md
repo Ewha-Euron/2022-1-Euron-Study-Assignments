@@ -68,3 +68,39 @@
 
 </div>
 </details>
+
+
+
+
+
+<details>
+<summary>CP</summary>
+<div markdown="1">       
+
+<br />  
+  
+| 주차 | 내용         | 발표자                       | 발표자료 |
+| ---- | ------------ | ---------------------------- | -------- |
+| 16 | ML : [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description) | 한예송, 홍재령 | [📚]()    |
+
+📌 임대주택 설계 시 단지 내 적정 주차 수요를 예측하는 대회입니다. 이번 세션에서는 AutoML을 소개할 예정입니다. 노트북의 전체적인 파이프라인이나 EDA보다는 AutoML이 무엇인지, 어떻게 사용되는지 확인하는데 초점을 맞춰주세요.
+  
+1️⃣  [1등 노트북](https://dacon.io/competitions/official/235745/codeshare/3015?page=1&dtype=recent)
+  
+  1. [github](https://github.com/pycaret/pycaret)
+  2. [블로그](https://velog.io/@devseunggwan/Machine-Learning-pycaret을-사용한-데이터-분석)
+  
+
+2️⃣  AutoML 기법 중 하나인 AutoGluon-Tabular을 추가적으로 소개할 예정입니다. 아래 자료들을 참고해 미리 예습해주세요.
+
+  1. [AutoGluon 정리](https://lsjsj92.tistory.com/626)
+  2. [AutoGluon-tabular 정리](https://doooob.tistory.com/110)
+  
+## Assignment
+### 📍 예습과제 (~6/23)
+
+- 6월 23일 목요일 23:59 분까지
+  
+  </div>
+</details>
+
